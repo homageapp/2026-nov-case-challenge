@@ -10,6 +10,12 @@ npm start          # starts the server on http://localhost:3000
 npm run typecheck  # type-checks the project with tsc
 ```
 
+Or run the app with MongoDB in Docker:
+
+```sh
+docker compose up  # app on http://localhost:3000, MongoDB on localhost:27017
+```
+
 ## Structure
 
 ```
@@ -20,6 +26,7 @@ npm run typecheck  # type-checks the project with tsc
 │   ├── cr profile.MD # Care recipient profiles
 │   ├── cp profile.MD # Care professional profiles
 │   └── assigned.MD   # Visits assigned so far
+├── docker-compose.yml # App + MongoDB
 ├── package.json
 └── tsconfig.json
 ```
