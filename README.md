@@ -13,20 +13,22 @@ npm run typecheck  # type-checks the project with tsc
 Or run the app with MongoDB in Docker:
 
 ```sh
-docker compose up  # app on http://localhost:3000, MongoDB on localhost:27017
+docker compose -f ops/docker-compose.yml up  # app on http://localhost:3000, MongoDB on localhost:27017
 ```
 
 ## Structure
 
 ```
 .
-├── index.ts          # Express server entry point
-├── notify.ts         # Notification service (do not modify)
+├── src/
+│   ├── index.ts           # Express server entry point
+│   └── notify.ts          # Notification service (do not modify)
+├── ops/
+│   └── docker-compose.yml # App + MongoDB
 ├── docs/
-│   ├── cr profile.MD # Care recipient profiles
-│   ├── cp profile.MD # Care professional profiles
-│   └── assigned.MD   # Visits assigned so far
-├── docker-compose.yml # App + MongoDB
+│   ├── cr profile.MD      # Care recipient profiles
+│   ├── cp profile.MD      # Care professional profiles
+│   └── assigned.MD        # Visits assigned so far
 ├── package.json
 └── tsconfig.json
 ```
