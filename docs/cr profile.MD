@@ -128,3 +128,128 @@ All names, addresses, contact details and case notes are fictional.
 | **Next of Kin Email** | david.fernandez@example.com |
 
 **Case notes:** Mdm Fernandez lives alone and had a fall at home last month. She is independent but her nephew, who is based in Perth, wants someone to check on her every evening and make sure she has taken her medication. He would like to be informed after each visit.
+
+---
+
+## Case 6 — Osman bin Jamal
+
+| | |
+|---|---|
+| **First Name** | Osman |
+| **Last Name** | bin Jamal |
+| **Gender** | Male |
+| **Date of Birth** | 11 May 1946 |
+| **Block / House No.** | 812 |
+| **Street Name** | Tampines Street 81 |
+| **Apt No.** | #06-430 |
+| **Postal Code** | 520812 |
+| **Preferred Language** | Malay |
+| **Service Required** | NGT Feeding |
+| **Frequency of Care** | 3 times a week |
+| **Visit Timing Requested** | 8:30 AM – 9:30 AM |
+| **Day of the Week Required** | Monday, Wednesday, Friday |
+| **Service Start Date** | 29 November 2027 |
+| **Next of Kin** | Nor Azlina binte Osman (Daughter) |
+| **Next of Kin Email** | azlina.osman@example.com |
+
+**Case notes:** Encik Osman has advanced Parkinson's disease and was started on nasogastric tube feeding during his last admission to Changi General Hospital. His wife manages the feeds on Tuesdays, Thursdays and weekends, but she has her own medical appointments on the other mornings. He speaks only Malay and becomes agitated when he cannot understand the caregiver.
+
+---
+
+## Case 7 — Selvaraj s/o Muthu
+
+| | |
+|---|---|
+| **First Name** | Selvaraj |
+| **Last Name** | s/o Muthu |
+| **Gender** | Male |
+| **Date of Birth** | 23 September 1950 |
+| **Block / House No.** | 410 |
+| **Street Name** | Bedok North Avenue 2 |
+| **Apt No.** | #09-56 |
+| **Postal Code** | 460410 |
+| **Preferred Language** | Tamil |
+| **Service Required** | Medical Escort |
+| **Frequency of Care** | Once a week |
+| **Visit Timing Requested** | 9:00 AM pick-up |
+| **Day of the Week Required** | Thursday |
+| **Service Start Date** | 2 December 2027 |
+| **Next of Kin** | Revathi d/o Selvaraj (Daughter) |
+| **Next of Kin Email** | revathi.selvaraj@example.com |
+
+**Case notes:** Mr Selvaraj is undergoing a course of physiotherapy at Changi General Hospital after a hip replacement. He uses a walking frame and needs help getting in and out of the taxi. Sessions usually last about two hours including waiting time. His daughter works shifts and cannot take him on Thursdays.
+
+---
+
+## Case 8 — Ng Swee Hiang
+
+| | |
+|---|---|
+| **First Name** | Swee Hiang |
+| **Last Name** | Ng |
+| **Gender** | Female |
+| **Date of Birth** | 4 February 1943 |
+| **Block / House No.** | 615 |
+| **Street Name** | Hougang Avenue 8 |
+| **Apt No.** | #10-271 |
+| **Postal Code** | 530615 |
+| **Preferred Language** | Hokkien, Teochew |
+| **Service Required** | Housekeeping |
+| **Frequency of Care** | Once a week |
+| **Visit Timing Requested** | 3:00 PM – 5:00 PM |
+| **Day of the Week Required** | Saturday |
+| **Service Start Date** | 27 November 2027 |
+| **Next of Kin** | Ng Wei Jie (Son) |
+| **Next of Kin Email** | weijie.ng@example.com |
+
+**Case notes:** Mdm Ng lives alone after her husband passed away earlier this year. She is mobile but has poor eyesight and cannot manage the mopping and laundry on her own. Her son lives in Johor Bahru and visits on Sunday evenings, so the family would like the flat tidied before then. She does not speak English or Mandarin.
+
+---
+
+## Case 9 — Robert Pereira
+
+| | |
+|---|---|
+| **First Name** | Robert |
+| **Last Name** | Pereira |
+| **Gender** | Male |
+| **Date of Birth** | 18 December 1939 |
+| **Block / House No.** | 52 |
+| **Street Name** | Telok Blangah Heights |
+| **Apt No.** | #07-118 |
+| **Postal Code** | 100052 |
+| **Preferred Language** | English |
+| **Service Required** | Check in visit |
+| **Frequency of Care** | Daily |
+| **Visit Timing Requested** | 5:45 PM – 6:15 PM |
+| **Day of the Week Required** | Monday to Sunday |
+| **Service Start Date** | 18 November 2027 |
+| **Next of Kin** | Angela Pereira (Daughter) |
+| **Next of Kin Email** | angela.pereira@example.com |
+
+**Case notes:** Mr Pereira has early-stage heart failure and lives alone. He needs a reminder to take his evening medication and to have his weight and ankle swelling checked, as sudden changes need to be reported to his doctor. His daughter lives in London and would like a short update after each visit.
+
+---
+
+## Case 10 — Rohani binte Yusof
+
+| | |
+|---|---|
+| **First Name** | Rohani |
+| **Last Name** | binte Yusof |
+| **Gender** | Female |
+| **Date of Birth** | 27 October 1947 |
+| **Block / House No.** | 118 |
+| **Street Name** | Pasir Ris Street 11 |
+| **Apt No.** | #04-302 |
+| **Postal Code** | 510118 |
+| **Preferred Language** | Malay, English |
+| **Service Required** | Personal Care & Hygiene |
+| **Frequency of Care** | Once a week |
+| **Visit Timing Requested** | 10:30 AM – 11:30 AM |
+| **Day of the Week Required** | Wednesday |
+| **Service Start Date** | 1 December 2027 |
+| **Next of Kin** | Hafiz bin Kamal (Grandson) |
+| **Next of Kin Email** | hafiz.kamal@example.com |
+
+**Case notes:** Mdm Rohani had a mild stroke last year and has weakness on her left side. She needs help with showering and hair washing once a week; her grandson's wife helps on other days. For religious and personal reasons she will only accept a female caregiver.
