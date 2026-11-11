@@ -1,6 +1,10 @@
 import express from "express";
+import mongoose from "mongoose";
 
 const PORT = Number(process.env.PORT ?? 3000);
+const MONGO_URL = process.env.MONGO_URL ?? "mongodb://localhost:27017/app";
+
+await mongoose.connect(MONGO_URL);
 
 const app = express();
 
